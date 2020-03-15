@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{72C6E4F6-7292-C104-2D20-9EB333BDD75F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/toyshooterfolder/MobileInput/Scripts/MobileControlRig.cs">
+    <Files>
+      <File FileName="Assets/toyshooterfolder/MobileInput/Scripts/MobileControlRig.cs" Line="71" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
